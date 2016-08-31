@@ -1,0 +1,206 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+
+.main-menu a {
+    text-decoration: none;
+}
+
+.main-menu a:hover {
+    text-decoration: underline;
+}
+
+.bg-orange {
+    background: orange;
+}
+
+.bg-green {
+
+    background: #00bc9a;
+}
+
+.bg-pink {
+
+    background-color: #d73575;
+}
+
+.break-line {
+
+    border-color: #00a386;
+    border-bottom: none;
+    border-width: 3px;
+}
+
+.bg-torquise {
+ background: #00bc9a;
+}
+
+.radius {
+
+    border-radius: 100%;
+}
+
+.lightblue {
+
+    color: #66c3e8;
+}
+
+.bg-light-gray {
+
+    background-color:#e2eff7 ;
+}
+
+.bg-dark-yellow {
+
+    background-color: #ffd88f;
+}
+
+.lighten {
+
+    font-weight: 200;
+}
+
+.hr-gray-border {
+
+    border-color: #bcd2df;
+
+}
+
+.hr-dark-blue {
+
+    border-color: #1f3063;
+}
+
+.hr-dark-pink {
+
+    border-color: #b52e63;
+}
+
+.bg-dark-blue {
+
+    background-color: #31498e;
+}
+
+.bg-input-text {
+
+    background-color: #203266;
+}
+
+.bg-aqua {
+
+    background-color: #00b2e3;
+}
+
+.bg-footer {
+
+    background-color: #2a4183;
+}
+
+.bg-footer a:hover {
+
+    color: aqua;
+}
+
+
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color:    #f2f3f6;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:    #f2f3f6;
+    opacity:  1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:    #f2f3f6;
+    opacity:  1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color:    #f2f3f6;
+}
+
+.hr-silver {
+
+    border-color: #e4bb74;
+}
+
+.icon-color {
+
+    background-color: #b3cbda;
+}
+
+.social-share .fa {min-width: 1rem}
+
+.social-share .twitter:hover {
+    background: cornflowerblue;
+}
+
+.social-share .facebook:hover {
+    background: darkblue;
+}
+
+.social-share .linkedin:hover {
+    background:midnightblue;
+}
+
+.social-share .envelope:hover {
+    background: darkred;
+}
+
+.click-icon-color {
+
+    background-color: #ebc27a;
+}
+
+.btn-width {
+
+    width: 50px;
+}
+
+.tap-icons a:hover {
+
+    background-color: #ffffff;
+}
+
+
+.charts{
+    font-weight: 400 ;
+}
+
+.charts .chart {
+    position:relative;
+    width:165px;
+    height:165px;
+    margin: 0 auto;
+    font-weight: 300 ;
+
+}
+.charts canvas {
+    display: block;
+    position:absolute;
+    top:0;
+    left:0;
+}
+.charts span {
+    color:#555;
+    display:block;
+    line-height:165px;
+    text-align:center;
+    width:165px;
+    font-size:40px;
+    font-weight:300;
+    margin-left:5px;
+}
+
+.px5 {
+
+    padding-left:5rem;
+}
+
+.input, .select {
+    height: auto;
+}
+
+.border-none {
+
+    border:none;
+}
